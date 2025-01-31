@@ -15,7 +15,7 @@ This project analyzes **Cyclistic**, a Chicago-based **bike-sharing platform**, 
 ## 📊 **Data & Tools Used**
 | **Category**      | **Details** |
 |------------------|-------------|
-| 📂 **Datasets**   | Air Quality Data, Cyclistic Customer Data, Vehicle Registrations |
+| 📂 **Datasets**   | Cyclistic Customer Data |
 | 🛠 **BI Tools**  | Power BI (Dashboards, Data Visualizations) |
 | 🔍 **CRM Tool**  | Monday.com (Customer Service & Sales Tracking) |
 | 🏢 **Database**  | PostgreSQL (Structured Data Storage) |
